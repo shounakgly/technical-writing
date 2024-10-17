@@ -1,4 +1,4 @@
-## About Creating Workbook Email Schedules 
+# About Creating Workbook Email Schedules 
 You can set up a schedule to share visualizations from a workbook in PDF file or PNG image format by email with one or more recipients. Schedule hourly, daily, weekly, monthly, or yearly emails to keep recipients up to date with the latest data.
 
 This feature is currently available for preview (Enterprise Edition only). Ask your administrator to enable the Preview Workbook Email Scheduler feature in Console and Preview Workbook Email Scheduling with Bursting in System Settings to use the bursting feature. See [Preview Options](https://docs.oracle.com/pls/topic/lookup?ctx=en/cloud/paas/analytics-cloud/acubi&id=ACABI-GUID-CA9CF906-506C-429B-BDAB-494D4918514C). 
