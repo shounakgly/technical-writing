@@ -5,7 +5,7 @@ You can name SMML schema files and folders by following the object-specific nami
 |---|---|---|---|---|
 |Business Model| None|128|No|Asterisk (*)</br> Question mark (?)</br> Single quote (')|
 |Catalog Schema|None|128|Yes|Asterisk (*)</br> Question mark (?)</br> Single quote (') |
-|Connection Pool|None|128|Yes|Asterisk (*</br> Question mark (?)|
+|Connection Pool|None|128|Yes|Asterisk (*)</br> Question mark (?)|
 |Database|None|128|Yes|Asterisk (*)</br> Question mark (?) |
 |Initialization Blocks|None|128|Yes| Asterisk (*)</br> Question mark (?)|
 |Logical Table|None|128|No|Asterisk (*)</br> Question mark (?)</br> Single quote (') |
